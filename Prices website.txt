@@ -1,0 +1,42 @@
+<html>
+<head>
+<style>
+		table {
+			font-family: arial,
+		sans-serif;
+			border-collapse:
+		collapse;
+			width: 100%;
+		}
+		
+		td, th {
+			border: 1px solid
+		   #dddddd;
+		    text-align: left;
+			padding: 8px;
+		}
+		
+		tr:nth-child(even) {
+		  background-color:
+		#dddddd;
+		}
+	</style>
+	<h3>Price Table</h3>
+	
+	<table>
+	  <tr>
+	    <th>Card</th>
+		<th>Cost</th>
+	  </tr>
+	  <tr>
+	    <td>Blue Eyes
+		White Dragon</td>
+		<td>$25</td>
+	  </tr>
+	  <tr>
+	    <td>Dark Magician</td>
+		<td>$30</td>
+	  </tr>
+	</table>
+	</head>
+	</html>

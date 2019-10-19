@@ -1,0 +1,12 @@
+<!Doctype html>
+<html>
+	<head>
+	<link rel="stylesheet" type="text/css" href="css1.css">
+	<meta charset="UTF-8">
+	<title>First Webpage</title>
+	</head>
+		<body>
+		<p> Welcome to </p>
+		<img src="Picture.jpg" alt="No Work">
+		</body>
+</html>
